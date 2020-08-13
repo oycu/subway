@@ -1,0 +1,93 @@
+{
+  "id": "1397681",
+  "name": "handover-inventory",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon",
+  "description": "移交盘点",
+  "glyphs": [
+    {
+      "icon_id": "783687",
+      "name": "确认合同 确认 合同 确定",
+      "font_class": "querenhetongquerenhetongqueding",
+      "unicode": "e690",
+      "unicode_decimal": 59024
+    },
+    {
+      "icon_id": "1150633",
+      "name": "吊灯",
+      "font_class": "diaodeng",
+      "unicode": "e61c",
+      "unicode_decimal": 58908
+    },
+    {
+      "icon_id": "1241243",
+      "name": "下载",
+      "font_class": "download",
+      "unicode": "e610",
+      "unicode_decimal": 58896
+    },
+    {
+      "icon_id": "1761533",
+      "name": "确认工单",
+      "font_class": "querengongdan",
+      "unicode": "e64f",
+      "unicode_decimal": 58959
+    },
+    {
+      "icon_id": "2127180",
+      "name": "沙漏",
+      "font_class": "shalou",
+      "unicode": "e61a",
+      "unicode_decimal": 58906
+    },
+    {
+      "icon_id": "3527054",
+      "name": "选择框",
+      "font_class": "xuanzekuang",
+      "unicode": "e670",
+      "unicode_decimal": 58992
+    },
+    {
+      "icon_id": "4520332",
+      "name": "上传",
+      "font_class": "shangchuan",
+      "unicode": "e60c",
+      "unicode_decimal": 58892
+    },
+    {
+      "icon_id": "6364167",
+      "name": "二维码",
+      "font_class": "ico",
+      "unicode": "e646",
+      "unicode_decimal": 58950
+    },
+    {
+      "icon_id": "6517355",
+      "name": "选择框",
+      "font_class": "xuanzekuang1",
+      "unicode": "e600",
+      "unicode_decimal": 58880
+    },
+    {
+      "icon_id": "7532870",
+      "name": "编辑",
+      "font_class": "bianji",
+      "unicode": "e665",
+      "unicode_decimal": 58981
+    },
+    {
+      "icon_id": "8288841",
+      "name": "功能",
+      "font_class": "gongneng",
+      "unicode": "e84a",
+      "unicode_decimal": 59466
+    },
+    {
+      "icon_id": "9601058",
+      "name": "时钟",
+      "font_class": "shizhong",
+      "unicode": "e651",
+      "unicode_decimal": 58961
+    }
+  ]
+}
